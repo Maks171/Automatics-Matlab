@@ -1,2 +1,2 @@
 # Automatics-Matlab
-Some automatic control scripts written in Matlab during laboratories
+Automatic control scripts written in Matlab during laboratories
